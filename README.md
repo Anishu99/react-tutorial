@@ -1,2 +1,1 @@
-# react-tutorial
-Namaste React
+SOURCE: NAMASTE REACT COURSE
